@@ -1,0 +1,18 @@
+# 临时/系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Word 临时文件
+~$*.docx
+~$*.doc
+
+# 校验与预览产物
+preview/
+*.pdf
+report.json
+checks.json
+
+# 编辑器
+.vscode/
+.idea/
